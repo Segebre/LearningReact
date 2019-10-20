@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button loads correctly 1`] = `
+<button
+  onClick={[Function]}
+>
+  SUBSCRIBE TO BASIC
+</button>
+`;
