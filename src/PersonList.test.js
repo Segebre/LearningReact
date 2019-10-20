@@ -56,3 +56,11 @@ it("displays error message", async () => {
 
     await expect(() => mockAxios.get('')).toThrow('404 not found.');
 });
+
+// Tests
+// https://jestjs.io/docs/en/mock-function-api#mockfnmockrejectedvalueoncevalue
+// https://jestjs.io/docs/en/expect.html#tothrowerror
+
+// Mocks
+// https://jestjs.io/docs/en/expect.html#tothrowerror
+// https://jestjs.io/docs/en/mock-functions.html#mocking-modules
